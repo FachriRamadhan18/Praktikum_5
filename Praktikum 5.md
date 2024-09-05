@@ -1,12 +1,12 @@
 
 #### **Tabel Keaktifan**
 
-| No  | Nama            | Point Keaktifan |
-| --- | --------------- | --------------- |
-| 1   | Fadhil Amir     | 3               |
-| 2   | Rayhan Alfazari | 3               |
-| 3   | M Nafan Nabil   | 3               |
-| 4   | Fachri Ramadhan | 3               |
+| No  | Nama            | Peran                                    | Nilai |
+| --- | --------------- | ---------------------------------------- | ----- |
+| 1   | Fadhil Amir     | Membuat soal + membuat praktikum 5       | 3     |
+| 2   | Rayhan Alfazari | Membuat soal + membuat praktikum 5       | 3     |
+| 3   | M Nafan Nabil   | Membuat soal + Mencari ket. opsi jawaban | 3     |
+| 4   | Fachri Ramadhan | Membuat soal + membuat Ppt               | 3     |
 **Keterangan :**
 0 : Tidak Aktif
 1 : Kurang Aktif
